@@ -1,0 +1,8 @@
+flask
+Flask[async]
+requests
+pymongo
+dnspython
+scikit-learn
+flask_cors
+discord.py
