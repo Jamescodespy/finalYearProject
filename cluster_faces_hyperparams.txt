@@ -1,0 +1,181 @@
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 273 eps value: 0.9 clusters found: 1, correct answer predicted: False
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 293 eps value: 0.8 clusters found: 1, correct answer predicted: False
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 282 eps value: 0.7 clusters found: 1, correct answer predicted: False
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 279 eps value: 0.6 clusters found: 2, correct answer predicted: True
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 292 eps value: 0.5 clusters found: 2, correct answer predicted: True
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 291 eps value: 0.4 clusters found: 2, correct answer predicted: True
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 310 eps value: 0.3 clusters found: 2, correct answer predicted: True
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 313 eps value: 0.2 clusters found: 3, correct answer predicted: False
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 313 eps value: 0.1 clusters found: 3, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 325 eps value: 1 clusters found: 1, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 325 eps value: 0.9 clusters found: 1, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 325 eps value: 0.8 clusters found: 1, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 324 eps value: 0.7 clusters found: 1, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 324 eps value: 0.6 clusters found: 1, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 326 eps value: 0.5 clusters found: 2, correct answer predicted: True
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 325 eps value: 0.4 clusters found: 2, correct answer predicted: True
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 305 eps value: 0.3 clusters found: 2, correct answer predicted: True
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 299 eps value: 0.2 clusters found: 2, correct answer predicted: True
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 276 eps value: 0.1 clusters found: 3, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 1 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.9 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.8 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.7 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.6 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.5 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.4 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.3 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.2 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.1 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.429330110549927, embeddings found: 42 eps value: 1 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.307717323303223, embeddings found: 42 eps value: 0.9 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.341612815856934, embeddings found: 42 eps value: 0.8 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.69108510017395, embeddings found: 42 eps value: 0.7 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.304052114486694, embeddings found: 42 eps value: 0.6 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.396063566207886, embeddings found: 42 eps value: 0.5 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.454859733581543, embeddings found: 42 eps value: 0.4 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.275752782821655, embeddings found: 42 eps value: 0.3 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.752765893936157, embeddings found: 42 eps value: 0.2 clusters found: 2, correct answer predicted: False
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.254871606826782, embeddings found: 42 eps value: 0.1 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 13.187625408172607, embeddings found: 47 eps value: 1 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.946570873260498, embeddings found: 47 eps value: 0.9 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.958412647247314, embeddings found: 47 eps value: 0.8 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.993973731994629, embeddings found: 47 eps value: 0.7 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 13.073684692382812, embeddings found: 47 eps value: 0.6 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 13.004079818725586, embeddings found: 47 eps value: 0.5 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.913897275924683, embeddings found: 47 eps value: 0.4 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.987903594970703, embeddings found: 47 eps value: 0.3 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 13.17134690284729, embeddings found: 47 eps value: 0.2 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.89342212677002, embeddings found: 47 eps value: 0.1 clusters found: 2, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 11.246169328689575, embeddings found: 3 eps value: 1 clusters found: 0, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 11.4651198387146, embeddings found: 3 eps value: 0.9 clusters found: 0, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 11.382263898849487, embeddings found: 3 eps value: 0.8 clusters found: 0, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 11.334346771240234, embeddings found: 3 eps value: 0.7 clusters found: 0, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 11.38992714881897, embeddings found: 3 eps value: 0.6 clusters found: 0, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 11.294348001480103, embeddings found: 3 eps value: 0.5 clusters found: 0, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 11.539931058883667, embeddings found: 3 eps value: 0.4 clusters found: 0, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 11.51617431640625, embeddings found: 3 eps value: 0.3 clusters found: 0, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 11.40807032585144, embeddings found: 3 eps value: 0.2 clusters found: 0, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 11.440453290939331, embeddings found: 3 eps value: 0.1 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.33223009109497, embeddings found: 0 eps value: 1 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.195276498794556, embeddings found: 0 eps value: 0.9 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.37067699432373, embeddings found: 0 eps value: 0.8 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.221477270126343, embeddings found: 0 eps value: 0.7 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.13631820678711, embeddings found: 0 eps value: 0.6 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.3245370388031, embeddings found: 0 eps value: 0.5 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.103527545928955, embeddings found: 0 eps value: 0.4 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.230650901794434, embeddings found: 0 eps value: 0.3 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.16227126121521, embeddings found: 0 eps value: 0.2 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.22384262084961, embeddings found: 0 eps value: 0.1 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 28.98414373397827, embeddings found: 0 eps value: 1 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 28.980068922042847, embeddings found: 0 eps value: 0.9 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 28.914831399917603, embeddings found: 0 eps value: 0.8 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 29.04837131500244, embeddings found: 0 eps value: 0.7 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 29.920816898345947, embeddings found: 0 eps value: 0.6 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 29.299946784973145, embeddings found: 0 eps value: 0.5 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 29.141183853149414, embeddings found: 0 eps value: 0.4 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 29.47232151031494, embeddings found: 0 eps value: 0.3 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 29.15022301673889, embeddings found: 0 eps value: 0.2 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 29.31119966506958, embeddings found: 0 eps value: 0.1 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.62888216972351, embeddings found: 0 eps value: 1 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.677029371261597, embeddings found: 0 eps value: 0.9 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.614403247833252, embeddings found: 0 eps value: 0.8 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.56155014038086, embeddings found: 0 eps value: 0.7 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.713751792907715, embeddings found: 0 eps value: 0.6 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.709726572036743, embeddings found: 0 eps value: 0.5 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.58620595932007, embeddings found: 0 eps value: 0.4 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.78230619430542, embeddings found: 0 eps value: 0.3 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.627976894378662, embeddings found: 0 eps value: 0.2 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.83504295349121, embeddings found: 0 eps value: 0.1 clusters found: 0, correct answer predicted: False
+
+---------- Reduced Cluster Size -----------
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 267 eps value: 1 clusters found: 1, correct answer predicted: False
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 293 eps value: 0.9 clusters found: 1, correct answer predicted: False
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 295 eps value: 0.8 clusters found: 1, correct answer predicted: False
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 295 eps value: 0.7 clusters found: 1, correct answer predicted: False
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 298 eps value: 0.6 clusters found: 2, correct answer predicted: True
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 295 eps value: 0.5 clusters found: 2, correct answer predicted: True
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 295 eps value: 0.4 clusters found: 2, correct answer predicted: True
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 298 eps value: 0.3 clusters found: 2, correct answer predicted: True
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 295 eps value: 0.2 clusters found: 3, correct answer predicted: False
+video: people_walking_across_road.mp4, time taken: time limit exceeded, embeddings found: 295 eps value: 0.1 clusters found: 3, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 311 eps value: 1 clusters found: 1, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 311 eps value: 0.9 clusters found: 1, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 314 eps value: 0.8 clusters found: 1, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 313 eps value: 0.7 clusters found: 1, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 314 eps value: 0.6 clusters found: 1, correct answer predicted: False
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 312 eps value: 0.5 clusters found: 2, correct answer predicted: True
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 312 eps value: 0.4 clusters found: 2, correct answer predicted: True
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 302 eps value: 0.3 clusters found: 2, correct answer predicted: True
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 293 eps value: 0.2 clusters found: 2, correct answer predicted: True
+video: people_walking_in_office.mp4, time taken: time limit exceeded, embeddings found: 301 eps value: 0.1 clusters found: 3, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 1 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.9 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.8 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.7 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.6 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.5 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.4 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.3 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.2 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle.mp4, time taken: time limit exceeded, embeddings found: 0 eps value: 0.1 clusters found: 0, correct answer predicted: False
+video: james_low_camera_angle_low_resolution.mp4, time taken: 13.858072757720947, embeddings found: 42 eps value: 1 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 14.297179460525513, embeddings found: 42 eps value: 0.9 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 13.9268639087677, embeddings found: 42 eps value: 0.8 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 13.953163146972656, embeddings found: 42 eps value: 0.7 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 19.40773606300354, embeddings found: 42 eps value: 0.6 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 15.520739555358887, embeddings found: 42 eps value: 0.5 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 13.738596677780151, embeddings found: 42 eps value: 0.4 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 13.703388214111328, embeddings found: 42 eps value: 0.3 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 13.92583703994751, embeddings found: 42 eps value: 0.2 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_low_resolution.mp4, time taken: 13.702980995178223, embeddings found: 42 eps value: 0.1 clusters found: 2, correct answer predicted: False
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.531871557235718, embeddings found: 47 eps value: 1 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.54053807258606, embeddings found: 47 eps value: 0.9 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.647162199020386, embeddings found: 47 eps value: 0.8 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.479921817779541, embeddings found: 47 eps value: 0.7 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.591535806655884, embeddings found: 47 eps value: 0.6 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.506088972091675, embeddings found: 47 eps value: 0.5 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.464738845825195, embeddings found: 47 eps value: 0.4 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.620964765548706, embeddings found: 47 eps value: 0.3 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.520917892456055, embeddings found: 47 eps value: 0.2 clusters found: 1, correct answer predicted: True
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, time taken: 12.52657675743103, embeddings found: 47 eps value: 0.1 clusters found: 4, correct answer predicted: False
+video: indoor_security_camera.mp4, time taken: 10.931154727935791, embeddings found: 3 eps value: 1 clusters found: 1, correct answer predicted: True
+video: indoor_security_camera.mp4, time taken: 11.929493188858032, embeddings found: 3 eps value: 0.9 clusters found: 1, correct answer predicted: True
+video: indoor_security_camera.mp4, time taken: 10.941297054290771, embeddings found: 3 eps value: 0.8 clusters found: 1, correct answer predicted: True
+video: indoor_security_camera.mp4, time taken: 11.005208969116211, embeddings found: 3 eps value: 0.7 clusters found: 1, correct answer predicted: True
+video: indoor_security_camera.mp4, time taken: 10.896647691726685, embeddings found: 3 eps value: 0.6 clusters found: 1, correct answer predicted: True
+video: indoor_security_camera.mp4, time taken: 11.024599552154541, embeddings found: 3 eps value: 0.5 clusters found: 1, correct answer predicted: True
+video: indoor_security_camera.mp4, time taken: 11.00818657875061, embeddings found: 3 eps value: 0.4 clusters found: 1, correct answer predicted: True
+video: indoor_security_camera.mp4, time taken: 10.989978551864624, embeddings found: 3 eps value: 0.3 clusters found: 1, correct answer predicted: True
+video: indoor_security_camera.mp4, time taken: 11.459324836730957, embeddings found: 3 eps value: 0.2 clusters found: 1, correct answer predicted: True
+video: indoor_security_camera.mp4, time taken: 11.765774011611938, embeddings found: 3 eps value: 0.1 clusters found: 1, correct answer predicted: True
+video: person_at_door_daytime.mp4, time taken: 17.868146181106567, embeddings found: 0 eps value: 1 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.219183921813965, embeddings found: 0 eps value: 0.9 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 17.603797912597656, embeddings found: 0 eps value: 0.8 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 17.634872913360596, embeddings found: 0 eps value: 0.7 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 17.70136046409607, embeddings found: 0 eps value: 0.6 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 18.34222984313965, embeddings found: 0 eps value: 0.5 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 17.551693439483643, embeddings found: 0 eps value: 0.4 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 17.62479543685913, embeddings found: 0 eps value: 0.3 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 17.652446508407593, embeddings found: 0 eps value: 0.2 clusters found: 0, correct answer predicted: False
+video: person_at_door_daytime.mp4, time taken: 17.527286529541016, embeddings found: 0 eps value: 0.1 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 28.189002513885498, embeddings found: 0 eps value: 1 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 27.59779644012451, embeddings found: 0 eps value: 0.9 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 28.356188535690308, embeddings found: 0 eps value: 0.8 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 27.945292711257935, embeddings found: 0 eps value: 0.7 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 27.65193748474121, embeddings found: 0 eps value: 0.6 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 27.710121154785156, embeddings found: 0 eps value: 0.5 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 27.945416927337646, embeddings found: 0 eps value: 0.4 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 27.614881992340088, embeddings found: 0 eps value: 0.3 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 27.567110061645508, embeddings found: 0 eps value: 0.2 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_on_sofa.mp4, time taken: 27.577214002609253, embeddings found: 0 eps value: 0.1 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 17.491012573242188, embeddings found: 0 eps value: 1 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 17.568289518356323, embeddings found: 0 eps value: 0.9 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 17.513346672058105, embeddings found: 0 eps value: 0.8 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 22.43021297454834, embeddings found: 0 eps value: 0.7 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 21.81493091583252, embeddings found: 0 eps value: 0.6 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 20.861915588378906, embeddings found: 0 eps value: 0.5 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 19.52567458152771, embeddings found: 0 eps value: 0.4 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 18.954718351364136, embeddings found: 0 eps value: 0.3 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 19.061331272125244, embeddings found: 0 eps value: 0.2 clusters found: 0, correct answer predicted: False
+video: ring_footage_man_standing.mp4, time taken: 19.023704290390015, embeddings found: 0 eps value: 0.1 clusters found: 0, correct answer predicted: False

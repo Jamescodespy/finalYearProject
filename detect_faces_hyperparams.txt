@@ -1,0 +1,511 @@
+video: people_walking_in_park_high_resolution.mp4, backend detector: retinaface, target size: VGG-Face, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: mtcnn, target size: VGG-Face, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: opencv, target size: VGG-Face, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: ssd, target size: VGG-Face, time taken: 34.30142068862915, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: dlib, target size: VGG-Face, time taken: 17.225021839141846, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: retinaface, target size: Facenet, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: mtcnn, target size: Facenet, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: opencv, target size: Facenet, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: ssd, target size: Facenet, time taken: 34.23014831542969, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: dlib, target size: Facenet, time taken: 17.328525066375732, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: retinaface, target size: Facenet512, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: mtcnn, target size: Facenet512, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: opencv, target size: Facenet512, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: ssd, target size: Facenet512, time taken: 34.12195372581482, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: dlib, target size: Facenet512, time taken: 17.293155431747437, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: retinaface, target size: OpenFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: mtcnn, target size: OpenFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: opencv, target size: OpenFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: ssd, target size: OpenFace, time taken: 34.351887941360474, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: dlib, target size: OpenFace, time taken: 17.240957260131836, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: retinaface, target size: DeepFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: mtcnn, target size: DeepFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: opencv, target size: DeepFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: ssd, target size: DeepFace, time taken: 34.055822134017944, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: dlib, target size: DeepFace, time taken: 17.179158687591553, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: retinaface, target size: DeepID, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: mtcnn, target size: DeepID, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: opencv, target size: DeepID, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: ssd, target size: DeepID, time taken: 46.8835711479187, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: dlib, target size: DeepID, time taken: 20.557313919067383, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: retinaface, target size: Dlib, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: mtcnn, target size: Dlib, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: opencv, target size: Dlib, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: ssd, target size: Dlib, time taken: 39.05756235122681, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: dlib, target size: Dlib, time taken: 19.658187866210938, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: retinaface, target size: ArcFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: mtcnn, target size: ArcFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: opencv, target size: ArcFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: ssd, target size: ArcFace, time taken: 39.556504011154175, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: dlib, target size: ArcFace, time taken: 19.509994745254517, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: retinaface, target size: SFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: mtcnn, target size: SFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: opencv, target size: SFace, time limit exceeded
+video: people_walking_in_park_high_resolution.mp4, backend detector: ssd, target size: SFace, time taken: 41.460044384002686, faces detected: 0
+video: people_walking_in_park_high_resolution.mp4, backend detector: dlib, target size: SFace, time taken: 18.17685866355896, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: retinaface, target size: VGG-Face, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: mtcnn, target size: VGG-Face, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: opencv, target size: VGG-Face, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: ssd, target size: VGG-Face, time taken: 16.094525575637817, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: dlib, target size: VGG-Face, time taken: 2.937405586242676, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: retinaface, target size: Facenet, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: mtcnn, target size: Facenet, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: opencv, target size: Facenet, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: ssd, target size: Facenet, time taken: 16.280477285385132, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: dlib, target size: Facenet, time taken: 3.0456836223602295, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: retinaface, target size: Facenet512, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: mtcnn, target size: Facenet512, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: opencv, target size: Facenet512, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: ssd, target size: Facenet512, time taken: 15.419754266738892, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: dlib, target size: Facenet512, time taken: 2.8755528926849365, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: retinaface, target size: OpenFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: mtcnn, target size: OpenFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: opencv, target size: OpenFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: ssd, target size: OpenFace, time taken: 19.53217625617981, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: dlib, target size: OpenFace, time taken: 3.0173499584198, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: retinaface, target size: DeepFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: mtcnn, target size: DeepFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: opencv, target size: DeepFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: ssd, target size: DeepFace, time taken: 17.813182830810547, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: dlib, target size: DeepFace, time taken: 3.0389883518218994, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: retinaface, target size: DeepID, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: mtcnn, target size: DeepID, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: opencv, target size: DeepID, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: ssd, target size: DeepID, time taken: 17.05667519569397, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: dlib, target size: DeepID, time taken: 3.0822932720184326, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: retinaface, target size: Dlib, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: mtcnn, target size: Dlib, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: opencv, target size: Dlib, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: ssd, target size: Dlib, time taken: 16.816309928894043, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: dlib, target size: Dlib, time taken: 3.079829692840576, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: retinaface, target size: ArcFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: mtcnn, target size: ArcFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: opencv, target size: ArcFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: ssd, target size: ArcFace, time taken: 16.501853466033936, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: dlib, target size: ArcFace, time taken: 3.0564067363739014, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: retinaface, target size: SFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: mtcnn, target size: SFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: opencv, target size: SFace, time limit exceeded
+video: people_walking_in_park_low_resolution.mp4, backend detector: ssd, target size: SFace, time taken: 17.231975317001343, faces detected: 0
+video: people_walking_in_park_low_resolution.mp4, backend detector: dlib, target size: SFace, time taken: 3.2688815593719482, faces detected: 0
+video: people_walking_across_road.mp4, backend detector: retinaface, target size: VGG-Face, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: mtcnn, target size: VGG-Face, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: opencv, target size: VGG-Face, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: ssd, target size: VGG-Face, time taken: 41.79161071777344, faces detected: 367
+video: people_walking_across_road.mp4, backend detector: dlib, target size: VGG-Face, time taken: 18.069498300552368, faces detected: 0
+video: people_walking_across_road.mp4, backend detector: retinaface, target size: Facenet, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: mtcnn, target size: Facenet, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: opencv, target size: Facenet, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: ssd, target size: Facenet, time taken: 41.59297752380371, faces detected: 367
+video: people_walking_across_road.mp4, backend detector: dlib, target size: Facenet, time taken: 18.227965116500854, faces detected: 0
+video: people_walking_across_road.mp4, backend detector: retinaface, target size: Facenet512, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: mtcnn, target size: Facenet512, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: opencv, target size: Facenet512, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: ssd, target size: Facenet512, time taken: 45.99271368980408, faces detected: 367
+video: people_walking_across_road.mp4, backend detector: dlib, target size: Facenet512, time taken: 19.532803058624268, faces detected: 0
+video: people_walking_across_road.mp4, backend detector: retinaface, target size: OpenFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: mtcnn, target size: OpenFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: opencv, target size: OpenFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: ssd, target size: OpenFace, time taken: 52.82268786430359, faces detected: 367
+video: people_walking_across_road.mp4, backend detector: dlib, target size: OpenFace, time taken: 22.064781188964844, faces detected: 0
+video: people_walking_across_road.mp4, backend detector: retinaface, target size: DeepFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: mtcnn, target size: DeepFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: opencv, target size: DeepFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: ssd, target size: DeepFace, time taken: 44.62886071205139, faces detected: 367
+video: people_walking_across_road.mp4, backend detector: dlib, target size: DeepFace, time taken: 18.601001262664795, faces detected: 0
+video: people_walking_across_road.mp4, backend detector: retinaface, target size: DeepID, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: mtcnn, target size: DeepID, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: opencv, target size: DeepID, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: ssd, target size: DeepID, time taken: 42.83999562263489, faces detected: 367
+video: people_walking_across_road.mp4, backend detector: dlib, target size: DeepID, time taken: 18.5526864528656, faces detected: 0
+video: people_walking_across_road.mp4, backend detector: retinaface, target size: Dlib, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: mtcnn, target size: Dlib, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: opencv, target size: Dlib, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: ssd, target size: Dlib, time taken: 42.82102632522583, faces detected: 367
+video: people_walking_across_road.mp4, backend detector: dlib, target size: Dlib, time taken: 18.638331651687622, faces detected: 0
+video: people_walking_across_road.mp4, backend detector: retinaface, target size: ArcFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: mtcnn, target size: ArcFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: opencv, target size: ArcFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: ssd, target size: ArcFace, time taken: 42.193835496902466, faces detected: 367
+video: people_walking_across_road.mp4, backend detector: dlib, target size: ArcFace, time taken: 18.568313121795654, faces detected: 0
+video: people_walking_across_road.mp4, backend detector: retinaface, target size: SFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: mtcnn, target size: SFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: opencv, target size: SFace, time limit exceeded
+video: people_walking_across_road.mp4, backend detector: ssd, target size: SFace, time taken: 42.238425970077515, faces detected: 367
+video: people_walking_across_road.mp4, backend detector: dlib, target size: SFace, time taken: 18.54938840866089, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: retinaface, target size: VGG-Face, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: mtcnn, target size: VGG-Face, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: opencv, target size: VGG-Face, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: ssd, target size: VGG-Face, time taken: 17.245070695877075, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: dlib, target size: VGG-Face, time taken: 3.1083059310913086, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: retinaface, target size: Facenet, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: mtcnn, target size: Facenet, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: opencv, target size: Facenet, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: ssd, target size: Facenet, time taken: 17.22835111618042, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: dlib, target size: Facenet, time taken: 3.212869644165039, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: retinaface, target size: Facenet512, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: mtcnn, target size: Facenet512, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: opencv, target size: Facenet512, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: ssd, target size: Facenet512, time taken: 18.146223068237305, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: dlib, target size: Facenet512, time taken: 3.209221124649048, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: retinaface, target size: OpenFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: mtcnn, target size: OpenFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: opencv, target size: OpenFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: ssd, target size: OpenFace, time taken: 17.88858723640442, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: dlib, target size: OpenFace, time taken: 3.3030028343200684, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: retinaface, target size: DeepFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: mtcnn, target size: DeepFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: opencv, target size: DeepFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: ssd, target size: DeepFace, time taken: 18.21147608757019, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: dlib, target size: DeepFace, time taken: 3.154867649078369, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: retinaface, target size: DeepID, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: mtcnn, target size: DeepID, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: opencv, target size: DeepID, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: ssd, target size: DeepID, time taken: 17.376330137252808, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: dlib, target size: DeepID, time taken: 3.0998482704162598, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: retinaface, target size: Dlib, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: mtcnn, target size: Dlib, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: opencv, target size: Dlib, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: ssd, target size: Dlib, time taken: 17.086541652679443, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: dlib, target size: Dlib, time taken: 3.0960500240325928, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: retinaface, target size: ArcFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: mtcnn, target size: ArcFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: opencv, target size: ArcFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: ssd, target size: ArcFace, time taken: 17.325318813323975, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: dlib, target size: ArcFace, time taken: 3.1576945781707764, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: retinaface, target size: SFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: mtcnn, target size: SFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: opencv, target size: SFace, time limit exceeded
+video: hat_and_mask_person.mp4, backend detector: ssd, target size: SFace, time taken: 17.84894108772278, faces detected: 0
+video: hat_and_mask_person.mp4, backend detector: dlib, target size: SFace, time taken: 3.179274320602417, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: retinaface, target size: VGG-Face, time taken: 0.25685691833496094, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: mtcnn, target size: VGG-Face, time taken: 0.0912935733795166, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: opencv, target size: VGG-Face, time taken: 0.08638429641723633, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: ssd, target size: VGG-Face, time taken: 0.08180642127990723, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: dlib, target size: VGG-Face, time taken: 0.08176350593566895, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: retinaface, target size: Facenet, time taken: 0.08781170845031738, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: mtcnn, target size: Facenet, time taken: 0.08083534240722656, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: opencv, target size: Facenet, time taken: 0.0805051326751709, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: ssd, target size: Facenet, time taken: 0.08175778388977051, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: dlib, target size: Facenet, time taken: 0.08254170417785645, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: retinaface, target size: Facenet512, time taken: 0.0838010311126709, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: mtcnn, target size: Facenet512, time taken: 0.07878351211547852, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: opencv, target size: Facenet512, time taken: 0.08873772621154785, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: ssd, target size: Facenet512, time taken: 0.08479690551757812, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: dlib, target size: Facenet512, time taken: 0.08576655387878418, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: retinaface, target size: OpenFace, time taken: 0.08679604530334473, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: mtcnn, target size: OpenFace, time taken: 0.08374762535095215, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: opencv, target size: OpenFace, time taken: 0.08164691925048828, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: ssd, target size: OpenFace, time taken: 0.08477258682250977, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: dlib, target size: OpenFace, time taken: 0.09048342704772949, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: retinaface, target size: DeepFace, time taken: 0.08078598976135254, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: mtcnn, target size: DeepFace, time taken: 0.08177971839904785, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: opencv, target size: DeepFace, time taken: 0.0807640552520752, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: ssd, target size: DeepFace, time taken: 0.08138871192932129, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: dlib, target size: DeepFace, time taken: 0.08378076553344727, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: retinaface, target size: DeepID, time taken: 0.08042597770690918, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: mtcnn, target size: DeepID, time taken: 0.08080315589904785, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: opencv, target size: DeepID, time taken: 0.08040189743041992, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: ssd, target size: DeepID, time taken: 0.08106565475463867, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: dlib, target size: DeepID, time taken: 0.07884359359741211, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: retinaface, target size: Dlib, time taken: 0.07976102828979492, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: mtcnn, target size: Dlib, time taken: 0.08577966690063477, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: opencv, target size: Dlib, time taken: 0.08082437515258789, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: ssd, target size: Dlib, time taken: 0.07977056503295898, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: dlib, target size: Dlib, time taken: 0.0837564468383789, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: retinaface, target size: ArcFace, time taken: 0.09275150299072266, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: mtcnn, target size: ArcFace, time taken: 0.08978557586669922, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: opencv, target size: ArcFace, time taken: 0.08077001571655273, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: ssd, target size: ArcFace, time taken: 0.08084917068481445, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: dlib, target size: ArcFace, time taken: 0.07980108261108398, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: retinaface, target size: SFace, time taken: 0.07976698875427246, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: mtcnn, target size: SFace, time taken: 0.08178138732910156, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: opencv, target size: SFace, time taken: 0.07882881164550781, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: ssd, target size: SFace, time taken: 0.0793917179107666, faces detected: 0
+video: james_low_camera_angle_high_resolution.mp4, backend detector: dlib, target size: SFace, time taken: 0.07908987998962402, faces detected: 0
+video: james_low_camera_angle_low_resolution.mp4, backend detector: retinaface, target size: VGG-Face, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: mtcnn, target size: VGG-Face, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: opencv, target size: VGG-Face, time taken: 39.664931535720825, faces detected: 77
+video: james_low_camera_angle_low_resolution.mp4, backend detector: ssd, target size: VGG-Face, time taken: 10.109172344207764, faces detected: 42
+video: james_low_camera_angle_low_resolution.mp4, backend detector: dlib, target size: VGG-Face, time taken: 1.025343418121338, faces detected: 0
+video: james_low_camera_angle_low_resolution.mp4, backend detector: retinaface, target size: Facenet, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: mtcnn, target size: Facenet, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: opencv, target size: Facenet, time taken: 39.6310088634491, faces detected: 77
+video: james_low_camera_angle_low_resolution.mp4, backend detector: ssd, target size: Facenet, time taken: 9.950048446655273, faces detected: 42
+video: james_low_camera_angle_low_resolution.mp4, backend detector: dlib, target size: Facenet, time taken: 1.0298149585723877, faces detected: 0
+video: james_low_camera_angle_low_resolution.mp4, backend detector: retinaface, target size: Facenet512, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: mtcnn, target size: Facenet512, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: opencv, target size: Facenet512, time taken: 39.59367823600769, faces detected: 77
+video: james_low_camera_angle_low_resolution.mp4, backend detector: ssd, target size: Facenet512, time taken: 10.16235899925232, faces detected: 42
+video: james_low_camera_angle_low_resolution.mp4, backend detector: dlib, target size: Facenet512, time taken: 1.009359359741211, faces detected: 0
+video: james_low_camera_angle_low_resolution.mp4, backend detector: retinaface, target size: OpenFace, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: mtcnn, target size: OpenFace, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: opencv, target size: OpenFace, time taken: 39.48207497596741, faces detected: 77
+video: james_low_camera_angle_low_resolution.mp4, backend detector: ssd, target size: OpenFace, time taken: 10.087384462356567, faces detected: 42
+video: james_low_camera_angle_low_resolution.mp4, backend detector: dlib, target size: OpenFace, time taken: 0.9876749515533447, faces detected: 0
+video: james_low_camera_angle_low_resolution.mp4, backend detector: retinaface, target size: DeepFace, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: mtcnn, target size: DeepFace, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: opencv, target size: DeepFace, time taken: 38.80962109565735, faces detected: 77
+video: james_low_camera_angle_low_resolution.mp4, backend detector: ssd, target size: DeepFace, time taken: 9.847524404525757, faces detected: 42
+video: james_low_camera_angle_low_resolution.mp4, backend detector: dlib, target size: DeepFace, time taken: 0.9884366989135742, faces detected: 0
+video: james_low_camera_angle_low_resolution.mp4, backend detector: retinaface, target size: DeepID, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: mtcnn, target size: DeepID, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: opencv, target size: DeepID, time taken: 39.10801887512207, faces detected: 77
+video: james_low_camera_angle_low_resolution.mp4, backend detector: ssd, target size: DeepID, time taken: 9.91618275642395, faces detected: 42
+video: james_low_camera_angle_low_resolution.mp4, backend detector: dlib, target size: DeepID, time taken: 0.9983561038970947, faces detected: 0
+video: james_low_camera_angle_low_resolution.mp4, backend detector: retinaface, target size: Dlib, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: mtcnn, target size: Dlib, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: opencv, target size: Dlib, time taken: 39.799341678619385, faces detected: 77
+video: james_low_camera_angle_low_resolution.mp4, backend detector: ssd, target size: Dlib, time taken: 10.001274108886719, faces detected: 42
+video: james_low_camera_angle_low_resolution.mp4, backend detector: dlib, target size: Dlib, time taken: 1.0063343048095703, faces detected: 0
+video: james_low_camera_angle_low_resolution.mp4, backend detector: retinaface, target size: ArcFace, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: mtcnn, target size: ArcFace, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: opencv, target size: ArcFace, time taken: 38.99505281448364, faces detected: 77
+video: james_low_camera_angle_low_resolution.mp4, backend detector: ssd, target size: ArcFace, time taken: 9.925652980804443, faces detected: 42
+video: james_low_camera_angle_low_resolution.mp4, backend detector: dlib, target size: ArcFace, time taken: 1.0083506107330322, faces detected: 0
+video: james_low_camera_angle_low_resolution.mp4, backend detector: retinaface, target size: SFace, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: mtcnn, target size: SFace, time limit exceeded
+video: james_low_camera_angle_low_resolution.mp4, backend detector: opencv, target size: SFace, time taken: 39.09422707557678, faces detected: 77
+video: james_low_camera_angle_low_resolution.mp4, backend detector: ssd, target size: SFace, time taken: 10.034382343292236, faces detected: 42
+video: james_low_camera_angle_low_resolution.mp4, backend detector: dlib, target size: SFace, time taken: 1.0033619403839111, faces detected: 0
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: retinaface, target size: VGG-Face, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: mtcnn, target size: VGG-Face, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: opencv, target size: VGG-Face, time taken: 33.48993277549744, faces detected: 135
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: ssd, target size: VGG-Face, time taken: 8.173439502716064, faces detected: 47
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: dlib, target size: VGG-Face, time taken: 0.808358907699585, faces detected: 0
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: retinaface, target size: Facenet, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: mtcnn, target size: Facenet, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: opencv, target size: Facenet, time taken: 34.533830404281616, faces detected: 135
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: ssd, target size: Facenet, time taken: 8.281712532043457, faces detected: 47
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: dlib, target size: Facenet, time taken: 0.8043999671936035, faces detected: 0
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: retinaface, target size: Facenet512, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: mtcnn, target size: Facenet512, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: opencv, target size: Facenet512, time taken: 33.937928438186646, faces detected: 135
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: ssd, target size: Facenet512, time taken: 8.17479419708252, faces detected: 47
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: dlib, target size: Facenet512, time taken: 0.808173418045044, faces detected: 0
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: retinaface, target size: OpenFace, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: mtcnn, target size: OpenFace, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: opencv, target size: OpenFace, time taken: 33.86521315574646, faces detected: 135
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: ssd, target size: OpenFace, time taken: 8.288202285766602, faces detected: 47
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: dlib, target size: OpenFace, time taken: 0.8125996589660645, faces detected: 0
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: retinaface, target size: DeepFace, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: mtcnn, target size: DeepFace, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: opencv, target size: DeepFace, time taken: 33.66351842880249, faces detected: 135
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: ssd, target size: DeepFace, time taken: 8.45723009109497, faces detected: 47
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: dlib, target size: DeepFace, time taken: 0.9125604629516602, faces detected: 0
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: retinaface, target size: DeepID, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: mtcnn, target size: DeepID, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: opencv, target size: DeepID, time taken: 33.96610736846924, faces detected: 135
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: ssd, target size: DeepID, time taken: 8.206988096237183, faces detected: 47
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: dlib, target size: DeepID, time taken: 0.8719534873962402, faces detected: 0
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: retinaface, target size: Dlib, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: mtcnn, target size: Dlib, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: opencv, target size: Dlib, time taken: 33.59225392341614, faces detected: 135
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: ssd, target size: Dlib, time taken: 8.154662847518921, faces detected: 47
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: dlib, target size: Dlib, time taken: 0.8333330154418945, faces detected: 0
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: retinaface, target size: ArcFace, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: mtcnn, target size: ArcFace, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: opencv, target size: ArcFace, time taken: 33.66648840904236, faces detected: 135
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: ssd, target size: ArcFace, time taken: 8.398943662643433, faces detected: 47
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: dlib, target size: ArcFace, time taken: 0.8237476348876953, faces detected: 0
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: retinaface, target size: SFace, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: mtcnn, target size: SFace, time limit exceeded
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: opencv, target size: SFace, time taken: 33.8567955493927, faces detected: 135
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: ssd, target size: SFace, time taken: 8.624049186706543, faces detected: 47
+video: james_low_camera_angle_no_glasses_low_resolution.mp4, backend detector: dlib, target size: SFace, time taken: 0.8618533611297607, faces detected: 0
+video: indoor_security_camera.mp4, backend detector: retinaface, target size: VGG-Face, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: mtcnn, target size: VGG-Face, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: opencv, target size: VGG-Face, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: ssd, target size: VGG-Face, time taken: 11.115002155303955, faces detected: 3
+video: indoor_security_camera.mp4, backend detector: dlib, target size: VGG-Face, time taken: 1.9760496616363525, faces detected: 0
+video: indoor_security_camera.mp4, backend detector: retinaface, target size: Facenet, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: mtcnn, target size: Facenet, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: opencv, target size: Facenet, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: ssd, target size: Facenet, time taken: 11.507232904434204, faces detected: 3
+video: indoor_security_camera.mp4, backend detector: dlib, target size: Facenet, time taken: 2.033125877380371, faces detected: 0
+video: indoor_security_camera.mp4, backend detector: retinaface, target size: Facenet512, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: mtcnn, target size: Facenet512, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: opencv, target size: Facenet512, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: ssd, target size: Facenet512, time taken: 11.671400785446167, faces detected: 3
+video: indoor_security_camera.mp4, backend detector: dlib, target size: Facenet512, time taken: 2.086481809616089, faces detected: 0
+video: indoor_security_camera.mp4, backend detector: retinaface, target size: OpenFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: mtcnn, target size: OpenFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: opencv, target size: OpenFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: ssd, target size: OpenFace, time taken: 10.8695969581604, faces detected: 3
+video: indoor_security_camera.mp4, backend detector: dlib, target size: OpenFace, time taken: 1.9438228607177734, faces detected: 0
+video: indoor_security_camera.mp4, backend detector: retinaface, target size: DeepFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: mtcnn, target size: DeepFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: opencv, target size: DeepFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: ssd, target size: DeepFace, time taken: 10.141841411590576, faces detected: 3
+video: indoor_security_camera.mp4, backend detector: dlib, target size: DeepFace, time taken: 1.9404196739196777, faces detected: 0
+video: indoor_security_camera.mp4, backend detector: retinaface, target size: DeepID, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: mtcnn, target size: DeepID, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: opencv, target size: DeepID, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: ssd, target size: DeepID, time taken: 10.090816259384155, faces detected: 3
+video: indoor_security_camera.mp4, backend detector: dlib, target size: DeepID, time taken: 1.9554274082183838, faces detected: 0
+video: indoor_security_camera.mp4, backend detector: retinaface, target size: Dlib, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: mtcnn, target size: Dlib, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: opencv, target size: Dlib, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: ssd, target size: Dlib, time taken: 10.056746482849121, faces detected: 3
+video: indoor_security_camera.mp4, backend detector: dlib, target size: Dlib, time taken: 1.9268674850463867, faces detected: 0
+video: indoor_security_camera.mp4, backend detector: retinaface, target size: ArcFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: mtcnn, target size: ArcFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: opencv, target size: ArcFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: ssd, target size: ArcFace, time taken: 10.227577447891235, faces detected: 3
+video: indoor_security_camera.mp4, backend detector: dlib, target size: ArcFace, time taken: 1.9269263744354248, faces detected: 0
+video: indoor_security_camera.mp4, backend detector: retinaface, target size: SFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: mtcnn, target size: SFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: opencv, target size: SFace, time limit exceeded
+video: indoor_security_camera.mp4, backend detector: ssd, target size: SFace, time taken: 10.133092403411865, faces detected: 3
+video: indoor_security_camera.mp4, backend detector: dlib, target size: SFace, time taken: 1.9597587585449219, faces detected: 0
+video: people_walking_in_office.mp4, backend detector: opencv, target size: VGG-Face, time taken: 60.245625495910645, faces detected: 174
+video: people_walking_in_office.mp4, backend detector: ssd, target size: VGG-Face, time taken: 60.03587985038757, faces detected: 766
+video: people_walking_in_office.mp4, backend detector: opencv, target size: Facenet, time taken: 60.58349251747131, faces detected: 176
+video: people_walking_in_office.mp4, backend detector: ssd, target size: Facenet, time taken: 60.055485010147095, faces detected: 762
+video: people_walking_in_office.mp4, backend detector: opencv, target size: Facenet512, time taken: 60.25821661949158, faces detected: 168
+video: people_walking_in_office.mp4, backend detector: ssd, target size: Facenet512, time taken: 60.001869440078735, faces detected: 732
+video: people_walking_in_office.mp4, backend detector: opencv, target size: OpenFace, time taken: 60.04356789588928, faces detected: 180
+video: people_walking_in_office.mp4, backend detector: ssd, target size: OpenFace, time taken: 60.07720184326172, faces detected: 659
+video: people_walking_in_office.mp4, backend detector: opencv, target size: DeepFace, time taken: 60.25244092941284, faces detected: 174
+video: people_walking_in_office.mp4, backend detector: ssd, target size: DeepFace, time taken: 60.046550035476685, faces detected: 592
+video: people_walking_in_office.mp4, backend detector: opencv, target size: DeepID, time taken: 60.14605689048767, faces detected: 147
+video: people_walking_in_office.mp4, backend detector: ssd, target size: DeepID, time taken: 60.127920150756836, faces detected: 712
+video: people_walking_in_office.mp4, backend detector: opencv, target size: Dlib, time taken: 60.858147859573364, faces detected: 161
+video: people_walking_in_office.mp4, backend detector: ssd, target size: Dlib, time taken: 60.07709455490112, faces detected: 736
+video: people_walking_in_office.mp4, backend detector: opencv, target size: ArcFace, time taken: 60.15853667259216, faces detected: 168
+video: people_walking_in_office.mp4, backend detector: ssd, target size: ArcFace, time taken: 60.180585622787476, faces detected: 672
+video: people_walking_in_office.mp4, backend detector: opencv, target size: SFace, time taken: 60.051069021224976, faces detected: 147
+video: people_walking_in_office.mp4, backend detector: ssd, target size: SFace, time taken: 60.079118967056274, faces detected: 731
+video: child_walking_up_stairs.mp4, backend detector: retinaface, target size: VGG-Face, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: mtcnn, target size: VGG-Face, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: opencv, target size: VGG-Face, time taken: 13.835866689682007, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: ssd, target size: VGG-Face, time taken: 3.920588970184326, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: dlib, target size: VGG-Face, time taken: 0.3790409564971924, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: retinaface, target size: Facenet, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: mtcnn, target size: Facenet, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: opencv, target size: Facenet, time taken: 13.902245998382568, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: ssd, target size: Facenet, time taken: 3.786179780960083, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: dlib, target size: Facenet, time taken: 0.432358980178833, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: retinaface, target size: Facenet512, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: mtcnn, target size: Facenet512, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: opencv, target size: Facenet512, time taken: 13.242814540863037, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: ssd, target size: Facenet512, time taken: 4.049318075180054, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: dlib, target size: Facenet512, time taken: 0.4030723571777344, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: retinaface, target size: OpenFace, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: mtcnn, target size: OpenFace, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: opencv, target size: OpenFace, time taken: 14.045272827148438, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: ssd, target size: OpenFace, time taken: 3.8650758266448975, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: dlib, target size: OpenFace, time taken: 0.3852250576019287, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: retinaface, target size: DeepFace, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: mtcnn, target size: DeepFace, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: opencv, target size: DeepFace, time taken: 16.295745849609375, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: ssd, target size: DeepFace, time taken: 3.81684947013855, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: dlib, target size: DeepFace, time taken: 0.39672374725341797, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: retinaface, target size: DeepID, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: mtcnn, target size: DeepID, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: opencv, target size: DeepID, time taken: 12.871935367584229, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: ssd, target size: DeepID, time taken: 4.174374580383301, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: dlib, target size: DeepID, time taken: 0.4815683364868164, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: retinaface, target size: Dlib, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: mtcnn, target size: Dlib, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: opencv, target size: Dlib, time taken: 13.234859228134155, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: ssd, target size: Dlib, time taken: 3.5881032943725586, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: dlib, target size: Dlib, time taken: 0.3926084041595459, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: retinaface, target size: ArcFace, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: mtcnn, target size: ArcFace, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: opencv, target size: ArcFace, time taken: 13.09597110748291, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: ssd, target size: ArcFace, time taken: 3.561476230621338, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: dlib, target size: ArcFace, time taken: 0.40593576431274414, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: retinaface, target size: SFace, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: mtcnn, target size: SFace, time limit exceeded
+video: child_walking_up_stairs.mp4, backend detector: opencv, target size: SFace, time taken: 14.903244495391846, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: ssd, target size: SFace, time taken: 4.135930776596069, faces detected: 0
+video: child_walking_up_stairs.mp4, backend detector: dlib, target size: SFace, time taken: 0.4109230041503906, faces detected: 0
+video: nightime_lady_getting_plate.mp4, backend detector: opencv, target size: Facenet, time limit exceeded
+video: nightime_lady_getting_plate.mp4, backend detector: ssd, target size: Facenet, time taken: 19.711106061935425, faces detected: 0
+video: nightime_lady_getting_plate.mp4, backend detector: opencv, target size: Facenet512, time limit exceeded
+video: nightime_lady_getting_plate.mp4, backend detector: ssd, target size: Facenet512, time taken: 23.39914560317993, faces detected: 0
+video: nightime_lady_getting_plate.mp4, backend detector: opencv, target size: OpenFace, time limit exceeded
+video: nightime_lady_getting_plate.mp4, backend detector: ssd, target size: OpenFace, time taken: 18.960447788238525, faces detected: 0
+video: nightime_lady_getting_plate.mp4, backend detector: opencv, target size: DeepFace, time limit exceeded
+video: nightime_lady_getting_plate.mp4, backend detector: ssd, target size: DeepFace, time taken: 23.891817808151245, faces detected: 0
+video: nightime_lady_getting_plate.mp4, backend detector: opencv, target size: DeepID, time limit exceeded
+video: nightime_lady_getting_plate.mp4, backend detector: ssd, target size: DeepID, time taken: 23.147860050201416, faces detected: 0
+video: nightime_lady_getting_plate.mp4, backend detector: opencv, target size: Dlib, time limit exceeded
+video: nightime_lady_getting_plate.mp4, backend detector: ssd, target size: Dlib, time taken: 21.60588788986206, faces detected: 0
+video: nightime_lady_getting_plate.mp4, backend detector: opencv, target size: ArcFace, time limit exceeded
+video: nightime_lady_getting_plate.mp4, backend detector: ssd, target size: ArcFace, time taken: 20.420318841934204, faces detected: 0
+video: nightime_lady_getting_plate.mp4, backend detector: opencv, target size: SFace, time limit exceeded
+video: nightime_lady_getting_plate.mp4, backend detector: ssd, target size: SFace, time taken: 19.088627099990845, faces detected: 0
+video: person_at_car_sunglasses.mp4, backend detector: opencv, target size: VGG-Face, time limit exceeded
+video: person_at_car_sunglasses.mp4, backend detector: ssd, target size: VGG-Face, time taken: 17.045457363128662, faces detected: 0
+video: person_at_car_sunglasses.mp4, backend detector: opencv, target size: Facenet, time limit exceeded
+video: person_at_car_sunglasses.mp4, backend detector: ssd, target size: Facenet, time taken: 16.91629433631897, faces detected: 0
+video: person_at_car_sunglasses.mp4, backend detector: opencv, target size: Facenet512, time limit exceeded
+video: person_at_car_sunglasses.mp4, backend detector: ssd, target size: Facenet512, time taken: 16.103899002075195, faces detected: 0
+video: person_at_car_sunglasses.mp4, backend detector: opencv, target size: OpenFace, time limit exceeded
+video: person_at_car_sunglasses.mp4, backend detector: ssd, target size: OpenFace, time taken: 18.53608989715576, faces detected: 0
+video: person_at_car_sunglasses.mp4, backend detector: opencv, target size: DeepFace, time limit exceeded
+video: person_at_car_sunglasses.mp4, backend detector: ssd, target size: DeepFace, time taken: 17.20289897918701, faces detected: 0
+video: person_at_car_sunglasses.mp4, backend detector: opencv, target size: DeepID, time limit exceeded
+video: person_at_car_sunglasses.mp4, backend detector: ssd, target size: DeepID, time taken: 16.82011127471924, faces detected: 0
+video: person_at_car_sunglasses.mp4, backend detector: opencv, target size: Dlib, time limit exceeded
+video: person_at_car_sunglasses.mp4, backend detector: ssd, target size: Dlib, time taken: 16.81358575820923, faces detected: 0
+video: person_at_car_sunglasses.mp4, backend detector: opencv, target size: ArcFace, time limit exceeded
+video: person_at_car_sunglasses.mp4, backend detector: ssd, target size: ArcFace, time taken: 15.340548753738403, faces detected: 0
+video: person_at_car_sunglasses.mp4, backend detector: opencv, target size: SFace, time limit exceeded
+video: person_at_car_sunglasses.mp4, backend detector: ssd, target size: SFace, time taken: 15.289339065551758, faces detected: 0
+video: person_at_door_daytime.mp4, backend detector: opencv, target size: VGG-Face, time taken: 53.48819017410278, faces detected: 2
+video: person_at_door_daytime.mp4, backend detector: ssd, target size: VGG-Face, time taken: 16.796096324920654, faces detected: 0
+video: person_at_door_daytime.mp4, backend detector: opencv, target size: Facenet, time taken: 59.9189727306366, faces detected: 2
+video: person_at_door_daytime.mp4, backend detector: ssd, target size: Facenet, time taken: 19.620948553085327, faces detected: 0
+video: person_at_door_daytime.mp4, backend detector: opencv, target size: Facenet512, time limit exceeded
+video: person_at_door_daytime.mp4, backend detector: ssd, target size: Facenet512, time taken: 17.623111963272095, faces detected: 0
+video: person_at_door_daytime.mp4, backend detector: opencv, target size: OpenFace, time limit exceeded
+video: person_at_door_daytime.mp4, backend detector: ssd, target size: OpenFace, time taken: 19.72107195854187, faces detected: 0
+video: person_at_door_daytime.mp4, backend detector: opencv, target size: DeepFace, time limit exceeded
+video: person_at_door_daytime.mp4, backend detector: ssd, target size: DeepFace, time taken: 18.225616455078125, faces detected: 0
+video: person_at_door_daytime.mp4, backend detector: opencv, target size: DeepID, time limit exceeded
+video: person_at_door_daytime.mp4, backend detector: ssd, target size: DeepID, time taken: 21.228617668151855, faces detected: 0
+video: person_at_door_daytime.mp4, backend detector: opencv, target size: Dlib, time limit exceeded
+video: person_at_door_daytime.mp4, backend detector: ssd, target size: Dlib, time taken: 21.01809334754944, faces detected: 0
+video: person_at_door_daytime.mp4, backend detector: opencv, target size: ArcFace, time taken: 57.62183094024658, faces detected: 2
+video: person_at_door_daytime.mp4, backend detector: ssd, target size: ArcFace, time taken: 18.39334511756897, faces detected: 0
+video: person_at_door_daytime.mp4, backend detector: opencv, target size: SFace, time taken: 52.98108649253845, faces detected: 2
+video: person_at_door_daytime.mp4, backend detector: ssd, target size: SFace, time taken: 16.110424995422363, faces detected: 0
+video: ring_footage_man_on_sofa.mp4, backend detector: opencv, target size: VGG-Face, time limit exceeded
+video: ring_footage_man_on_sofa.mp4, backend detector: ssd, target size: VGG-Face, time taken: 30.352969646453857, faces detected: 0
+video: ring_footage_man_on_sofa.mp4, backend detector: opencv, target size: Facenet, time limit exceeded
+video: ring_footage_man_on_sofa.mp4, backend detector: ssd, target size: Facenet, time taken: 30.57001495361328, faces detected: 0
+video: ring_footage_man_on_sofa.mp4, backend detector: opencv, target size: Facenet512, time limit exceeded
+video: ring_footage_man_on_sofa.mp4, backend detector: ssd, target size: Facenet512, time taken: 30.39246678352356, faces detected: 0
+video: ring_footage_man_on_sofa.mp4, backend detector: opencv, target size: OpenFace, time limit exceeded
+video: ring_footage_man_on_sofa.mp4, backend detector: ssd, target size: OpenFace, time taken: 30.33228349685669, faces detected: 0
+video: ring_footage_man_on_sofa.mp4, backend detector: opencv, target size: DeepFace, time limit exceeded
+video: ring_footage_man_on_sofa.mp4, backend detector: ssd, target size: DeepFace, time taken: 30.446619510650635, faces detected: 0
+video: ring_footage_man_on_sofa.mp4, backend detector: opencv, target size: DeepID, time limit exceeded
+video: ring_footage_man_on_sofa.mp4, backend detector: ssd, target size: DeepID, time taken: 30.185598134994507, faces detected: 0
+video: ring_footage_man_on_sofa.mp4, backend detector: opencv, target size: Dlib, time limit exceeded
+video: ring_footage_man_on_sofa.mp4, backend detector: ssd, target size: Dlib, time taken: 29.101199626922607, faces detected: 0
+video: ring_footage_man_on_sofa.mp4, backend detector: opencv, target size: ArcFace, time limit exceeded
+video: ring_footage_man_on_sofa.mp4, backend detector: ssd, target size: ArcFace, time taken: 28.742563724517822, faces detected: 0
+video: ring_footage_man_on_sofa.mp4, backend detector: opencv, target size: SFace, time limit exceeded
+video: ring_footage_man_on_sofa.mp4, backend detector: ssd, target size: SFace, time taken: 28.89482545852661, faces detected: 0
+video: ring_footage_man_standing.mp4, backend detector: opencv, target size: VGG-Face, time limit exceeded
+video: ring_footage_man_standing.mp4, backend detector: ssd, target size: VGG-Face, time taken: 18.11734390258789, faces detected: 0
+video: ring_footage_man_standing.mp4, backend detector: opencv, target size: Facenet, time limit exceeded
+video: ring_footage_man_standing.mp4, backend detector: ssd, target size: Facenet, time taken: 18.304927825927734, faces detected: 0
+video: ring_footage_man_standing.mp4, backend detector: opencv, target size: Facenet512, time limit exceeded
+video: ring_footage_man_standing.mp4, backend detector: ssd, target size: Facenet512, time taken: 18.770209312438965, faces detected: 0
+video: ring_footage_man_standing.mp4, backend detector: opencv, target size: OpenFace, time limit exceeded
+video: ring_footage_man_standing.mp4, backend detector: ssd, target size: OpenFace, time taken: 21.83907127380371, faces detected: 0
+video: ring_footage_man_standing.mp4, backend detector: opencv, target size: DeepFace, time limit exceeded
+video: ring_footage_man_standing.mp4, backend detector: ssd, target size: DeepFace, time taken: 19.66558837890625, faces detected: 0
+video: ring_footage_man_standing.mp4, backend detector: opencv, target size: DeepID, time limit exceeded
+video: ring_footage_man_standing.mp4, backend detector: ssd, target size: DeepID, time taken: 19.551319122314453, faces detected: 0
+video: ring_footage_man_standing.mp4, backend detector: opencv, target size: Dlib, time limit exceeded
+video: ring_footage_man_standing.mp4, backend detector: ssd, target size: Dlib, time taken: 20.00511932373047, faces detected: 0
+video: ring_footage_man_standing.mp4, backend detector: opencv, target size: ArcFace, time limit exceeded
+video: ring_footage_man_standing.mp4, backend detector: ssd, target size: ArcFace, time taken: 19.50092387199402, faces detected: 0
+video: ring_footage_man_standing.mp4, backend detector: opencv, target size: SFace, time limit exceeded
+video: ring_footage_man_standing.mp4, backend detector: ssd, target size: SFace, time taken: 19.604284048080444, faces detected: 0
