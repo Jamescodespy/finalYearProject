@@ -1,0 +1,62 @@
+{% include "_dependencies.html" %}
+  <body>
+    <br>
+        <div class="container">
+            <div class="row">
+                <div class="col s3">
+                    <div class="card-panel blue-grey darken-2 hoverable" onclick='openModal("add_room_model")', style="cursor: pointer">
+                        <h5 class="center-align amber-text darken-3">Add Room</h5>
+                    </div>
+                </div>
+                <div class="col s3">
+                    <div class="card-panel blue-grey darken-2 hoverable" onclick='openModal("add_camera_model")', style="cursor: pointer">
+                        <h5 class="center-align amber-text darken-3">Add Camera</h5>
+                    </div>
+                </div>
+                <div class="col s3">
+                    <div class="card-panel blue-grey darken-2 hoverable" onclick='openModal("add_label_model")', style="cursor: pointer">
+                        <h5 class="center-align amber-text darken-3">Add Label</h5>
+                    </div>
+                </div>
+                <div class="col s3">
+                    <div class="card-panel blue-grey darken-2 hoverable" onclick='openModal("label_people_model"); labelFace();', style="cursor: pointer">
+                        <h5 class="center-align amber-text darken-3">Label People</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                {% for room_name, data in res.rooms %}
+                {% set room_name_title = room_name | replace("_", " ") | title %}
+                <div class="col l6 m6 s12">
+                    <div class="card-panel blue-grey darken-3">
+                        <h5 class="center-align amber-text darken-3">{{ room_name_title }}</h5>
+                        <div class="row">
+                            {% for camera in data['cameras'] %}
+                                <div class="col s4 center-align">
+                                    <a href="{{ camera['connection']}}"class="waves-effect waves-light btn blue-grey darken-2 amber-text" target="_blank">
+                                        {{camera['camera_name'] | replace("_", " ") | title }}
+                                    </a>
+                                </div>
+                            {% endfor %}
+                        </div>
+                        <div class="row">
+                            <div class="col s6">
+                                {% include "_donut_graph.html" %}
+                            </div>
+                            <div class="col s6">
+                                {% include "_currently_in_room.html" %}
+                            </div>
+                        </div>
+                        {% include "_alert_room.html" %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="card-panel blue-grey darken-3">
+                {% include "_label_track.html" %}
+            </div>
+        </div>
+    </body>
+
+    {% include "_modals.html" %}
+</html>

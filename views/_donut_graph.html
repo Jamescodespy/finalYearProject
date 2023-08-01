@@ -1,0 +1,28 @@
+<canvas id="donut-chart-{{ room_name }}"></canvas>
+<script>
+    var labels_array = []
+    var values_array = []
+    {% for label_keys, _ in data.labels %}
+        {% set total_timestamps = data['labels'][label_keys] | length %}
+        labels_array.push("{{label_keys}}")
+        values_array.push({{total_timestamps}})
+    {% endfor %}
+    if(colors.length === 0){
+        colors = generateRandomColors(labels_array.length)
+    }
+    var ctx = document.getElementById('donut-chart-{{room_name}}').getContext('2d');
+    var canvas = document.getElementById('donut-chart-{{room_name}}');
+    canvas.width = canvas.width * 1.2;
+    canvas.height = canvas.height * 1.2;
+    var myChart = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+        labels: labels_array,
+        datasets: [{
+            label: 'Detections',
+            data: values_array,
+            backgroundColor: colors,
+        }]
+    }
+});
+</script>

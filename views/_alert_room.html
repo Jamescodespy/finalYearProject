@@ -1,0 +1,55 @@
+<table id="alert-{{room_name}}" class="alert-table centered">
+        <thead class="amber-text center">
+            <tr>
+                <th>Label</th>
+                <th>Detection Alert</th>
+            </tr>
+        </thead>
+        <tbody class="white-text">
+             {% for label_name, alert_on in data.alerts %}
+             <tr>
+                <td>{{ label_name | replace("_", " ") | title}}</td>
+                <td>
+                    <div class="switch amber-text">
+                        <label>
+                        Off
+                        <input id="alert-{{room_name}}-{{label_name}}" 
+                               type="checkbox" 
+                               onclick='callFunction(this.id, "{{room_name}}", "{{label_name}}")'
+                               {% if alert_on %}
+                                checked
+                               {% endif %}
+                        >
+                        <span class="lever"></span>
+                        On
+                        </label>
+                    </div>
+                </td>
+             </tr>
+            {% endfor %}
+        </tbody>
+
+        <script>
+            function callFunction(id, room_name, label){
+                var alert = document.getElementById(id).checked
+                var req = new XMLHttpRequest();
+                var data = {
+                    "room_name": room_name,
+                    "label": label 
+                }
+
+                req.open('POST', 'http://127.0.0.1:1000/alerts/update');
+                req.setRequestHeader('Content-Type', 'application/json');
+                req.onload = function(){
+                    if(req.status === 200){
+                        M.toast({html: "Alert change successful", classes: "green lighten-2 rounded white-text"});
+                    }
+                    else{
+                        M.toast({html: "Alert change unsuccessful", classes: "red rounded white-text"});
+                        document.getElementById(id).checked = !document.getElementById(id).checked
+                    }
+                };
+                req.send(JSON.stringify(data));
+            }
+        </script>
+</table>

@@ -1,0 +1,53 @@
+<div class="row">
+    <div class="col s12 m3 l3">
+        <div class="input-field col s12 blue-text">
+            <select id="label-track-select" onchange='trackLabel()'>
+                <option value="" disabled selected>Choose Label</option>
+                {% for label in res.labels %}
+                <option value="{{label}}">{{label | title}}</option>
+                {% endfor %}
+            </select>
+            <label class="amber-text">Labels</label>
+        </div>
+    </div>
+
+    <div class="col s12 m9 l9">
+        <table id="label-track" class="label-track-table centered">
+            <thead class="amber-text">
+                <tr>
+                    <th>Room Name</th>
+                    <th>Time of Detection</th>
+                </tr>
+            </thead>
+            <tbody id="label-track-tbody" class="white-text">
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script>
+    function trackLabel(){
+        var label = document.getElementById('label-track-select').value;
+        var req = new XMLHttpRequest();
+        req.open('GET', 'http://127.0.0.1:1000/labels/track?label=' + label);
+        req.onload = function(){
+            if(req.status === 200){
+                var data = JSON.parse(req.response);
+                var table = $('#label-track').DataTable();
+                table.clear();
+                data.forEach(function(item) {
+                    var roomName = item.room_name.split('_').map(function(word){
+                        return word.charAt(0).toUpperCase() + word.slice(1);
+                    }).join(' ');
+                    table.row.add([roomName, item.timestamp]);
+                });
+                table.draw();
+            }
+            else{
+                console.log(req)
+                M.toast({html: "Alert change unsuccessful", classes: "red rounded white-text"});
+            }
+        };
+        req.send();
+    }
+</script>

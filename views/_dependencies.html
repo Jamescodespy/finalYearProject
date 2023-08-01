@@ -1,0 +1,107 @@
+<html>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <link href="https://cdn.datatables.net/v/dt/dt-1.13.4/datatables.min.css" rel="stylesheet"/>
+ 
+    <script src="https://cdn.datatables.net/v/dt/dt-1.13.4/datatables.min.js"></script>
+
+    <style>
+        body {
+            background-color: #546e7a;
+        }
+        
+        .card-panel {
+            border-radius: 10px; /* adjust the value to set the amount of rounding */
+            border: 2px solid gold; /* sets the outline color to gold */
+        }
+
+        .switch label input[type=checkbox]:checked+.lever:after {
+            background-color: #ffc107;
+        }
+
+        .dropdown-content li > a, .dropdown-content li > span {
+            color: #ffc107;
+        }
+
+        .select-dropdown {
+            color: ffffff;
+        }
+
+        .input-field input[type=text]:focus {
+            border-bottom: 1px solid #ffc107;
+            box-shadow: 0 1px 0 0 #ffc107;
+        }
+    </style>
+
+    {% set toastClass = '' %}
+    {% set toastMessage = '' %}
+
+    {% if flash['error'] %}
+        {% set toastClass = 'red rounded white-text' %}
+        {% set toastMessage = flash['error'] %}
+    {% elif flash['success'] %}
+        {% set toastClass = 'green lighten-2 rounded white-text' %}
+        {% set toastMessage = flash['success'] %}
+    {% endif %}
+
+    {% if toastMessage %}
+        <script>
+            $(document).ready(function() {
+                M.toast({html: "{{ toastMessage }}", classes: "{{ toastClass }}"});
+            });
+        </script>
+    {% endif %}
+
+    <script>
+        colors = []
+        function generateRandomColors(numColors) {
+        var colors = [];
+        for (var i = 0; i < numColors; i++) {
+            var r = 255; // set red component to maximum
+            var g = 215; // set green component to a shade of gold
+            var b = Math.floor(Math.random() * 256); // vary blue component
+            var color = "rgba(" + r + "," + g + "," + b + ", 0.6)";
+            colors.push(color);
+        }
+        return colors;
+        }
+        $(document).ready(function () {
+            $('.in-room-table').DataTable({
+                pagingType: 'numbers',
+                searching: false,
+                info: false,
+                dom: 'rtip',
+                pageLength: 5,
+                ordering: false
+            });
+
+            $('.alert-table').DataTable({
+                pagingType: 'simple_numbers',
+                searching: false,
+                info: false,
+                dom: 'rtip',
+                pageLength: 5,
+                ordering: false
+            });
+
+            $('.label-track-table').DataTable({
+                pagingType: 'full_numbers',
+                info: false,
+                dom: 'rtip',
+                pageLength: 10,
+                ordering: false
+            });
+        });
+    </script>

@@ -1,0 +1,113 @@
+<div id="add_room_model" class="modal">
+    <div class="modal-content">
+        <h5>Add Room</h5>
+        <div class="row">
+            <form action="/rooms/add", method="POST">
+                <div class="row">
+                    <div class="input-field col s6">
+                        <input id="room_name" name="room_name" type="text" class="validate">
+                        <label for="room_name">Room Name</label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a class="modal-close waves-effect waves-green btn-flat">Cancel</a>
+                    <button type="submit" class="waves-effect waves-light btn blue-grey darken-2">Add Room</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div id="add_camera_model" class="modal">
+    <div class="modal-content">
+        <h5>Add Camera</h5>
+        <form action="/cameras/add", method="POST">
+            <div class="row">
+                <div class="input-field col s6">
+                    <input id="camera-name" name="camera_name" type="text" class="validate">
+                    <label for="camera-name">Camera Name</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s6">
+                    <input id="camera-connection" name="camera_connection" type="text" class="validate">
+                    <label for="camera-connection">Camera Connection</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s6">
+                    <select name="room_name">
+                        <option value="" disabled selected>Choose Room</option>
+                        {% for room_name, data in res.rooms %}
+                            <option value="{{room_name}}">{{room_name | replace("_", " ") | title }}</option>
+                        {% endfor %}
+                    </select>
+                    <label>Select Room</label>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a class="modal-close waves-effect waves-green btn-flat">Cancel</a>
+                <button type="submit" class="waves-effect waves-light btn blue-grey darken-2">Add Camera</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div id="add_label_model" class="modal">
+    <div class="modal-content">
+        <h5>Add Label</h5>
+        <div class="row">
+            <form action="/labels/add", method="POST">
+                <div class="row">
+                    <div class="input-field col s6">
+                        <input id="label-name" name="label_name" type="text" class="validate">
+                        <label for="label-name">Label Name</label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a class="modal-close waves-effect waves-green btn-flat">Cancel</a>
+                    <button type="submit" class="waves-effect waves-light btn blue-grey darken-2">Add Label</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div id="label_people_model" class="modal">
+    <div class="modal-content">
+        <h5>Label People</h5>  
+        <p>Click image to enlarge</p>
+        <form action="/labels/update", method="POST">
+            <input type="hidden" id="image_label_id" name="image_label_id" value="{{res.label_image.id}}">
+                <img class="materialboxed" width="20%" src='data:image/jpg;base64,{{res.label_image.image}}'>
+            <div class="row">
+                <div class="input-field col s3">
+                    <input id="label-name-from-image" name="label_name" type="text" class="validate">
+                    <label for="label-name-from-image">Person's Name</label>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a class="modal-close waves-effect waves-green btn-flat">Cancel</a>
+                <button type="submit" class="waves-effect waves-light btn blue-grey darken-2">Add Label</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    function openModal(modal_id) {
+        var modal = document.getElementById(modal_id);
+        var instance = M.Modal.init(modal);
+        instance.open();
+    }
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        var elems = document.querySelectorAll('select');
+        var instances = M.FormSelect.init(elems,{});
+    });
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        var elems = document.querySelectorAll('.materialboxed');
+        var instances = M.Materialbox.init(elems, {});
+    });
+</script>

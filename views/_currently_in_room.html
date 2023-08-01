@@ -1,0 +1,17 @@
+
+<table id="people-in-{{room_name}}" class="in-room-table centered">
+        <thead class="amber-text">
+            <tr>
+                <th>In {{room_name_title}}</th>
+                <th>Last Detection</th>
+            </tr>
+        </thead>
+        <tbody class="white-text">
+            {% for person_name, timestamp in data['in_room'] %}
+                <tr>
+                    <td>{{ person_name | title }}</td>
+                    <td>{{ timestamp }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+</table>
