@@ -10,7 +10,7 @@ import discord
 from discord.ext import commands
 from threading import Thread
 
-cluster = MongoClient("mongodb+srv://jhanna516:RhfBuGoBYrw1iwoj@cluster0.v5chlrq.mongodb.net/?retryWrites=true&w=majority")
+cluster = MongoClient("")
 db = cluster["GK02"]
 
 intents = discord.Intents.default()
